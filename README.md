@@ -11,4 +11,5 @@ pkg install python
 git clone https://github.com/Muhid-Li/Clone
 
 cd Clone
+
 python random_enc.py
