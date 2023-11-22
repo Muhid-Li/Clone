@@ -14,4 +14,4 @@ git clone https://github.com/Muhid-Li/Clone
 
 cd Clone
 
-python random_enc.py
+python Update_R4NDOM.py
